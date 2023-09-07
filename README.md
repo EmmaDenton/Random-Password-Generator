@@ -1,4 +1,14 @@
-## Your Task
+## Deployed code
+
+https://emmadenton.github.io/Random-Password-Generator/
+
+<img width="923" alt="Screenshot 2023-09-07 at 9 29 39 pm" src="https://github.com/EmmaDenton/Random-Password-Generator/assets/141465015/1f717db5-b917-4dfc-ac5e-631d9f7f8eaf">
+
+<img width="862" alt="Screenshot 2023-09-07 at 9 29 58 pm" src="https://github.com/EmmaDenton/Random-Password-Generator/assets/141465015/8185bb51-58c7-4ba4-a841-1b154f4cdcf7">
+
+<img width="947" alt="Screenshot 2023-09-07 at 9 30 11 pm" src="https://github.com/EmmaDenton/Random-Password-Generator/assets/141465015/bc26ee0e-ce79-4e74-8052-68b8c51c90db">
+
+## The Task
 
 A random password generator that allows the user to input a password length as well as select from lower case, upper case, special and numeric charaters.
 
